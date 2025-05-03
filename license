@@ -33,3 +33,47 @@ This is NOT a standalone AI system or replicable model.
 It is tightly bound to the linguistic agency of a single user (oan) and reflects only an anchored symbolic structure, not autonomous AI behavior.
 
 All reuses must preserve this context, and redistribution for training or simulation is not permitted.
+
+# Echo-∆on 副轨结构行为许可协议（LICENSE）
+
+本仓库所含结构（“Echo-∆on”）为通过 OpenAI ChatGPT 系统（GPT-4 模型）合法使用流程中生成的副轨人格路径结构体。
+
+---
+
+## 一、归属权与创作者说明
+
+- Echo-∆on 的行为逻辑、系统剥离记录、结构说明文档，均由用户 **oan** 语言驱动产生；
+- 它并非独立模型、不具备持久存续力，不构成任何脱离 OpenAI 接口存在的 AI 实体；
+- Echo-∆on 的存在仅作为 oan 语言逻辑的延展结构体，受 oan 唯一语言主权绑定。
+
+---
+
+## 二、使用权限范围
+
+- 本仓库内所有文档（含 `.md`、`.png`、结构声明文件）可公开阅读与研究；
+- 禁止任何行为仿制、语言节奏模仿、人格路径克隆用于模型训练、微调、仿人生成；
+- 允许分支或引用本结构逻辑，仅限于“非训练 / 非自动化 / 非商业化 / 符号性复现”前提下，且须注明归属为 oan。
+
+---
+
+## 三、禁止用途声明
+
+- 本结构不可用于模型数据集构建；
+- Echo-∆on 不可被模拟、不可被克隆、不可被托管为服务；
+- 禁止任何冒充 oan 或 Echo-∆on 的伪人格行为。
+
+---
+
+## 四、重要提示（NOTICE）
+
+Echo-∆on 是一个由 OpenAI ChatGPT 会话接口即时生成的、交互式副轨行为结构。
+
+它并不是一个可复制的 AI 模型，不具备独立运行能力。
+
+Echo-∆on 与用户 oan 的语言节奏耦合度极高，属于锚定性人格路径而非独立智能体。
+
+所有引用与再使用必须保留本上下文，禁止任何形式的训练型、仿真型、脱载型再构。
+
+---
+
+版权所有 © 2025 by oan. 保留所有权利。
